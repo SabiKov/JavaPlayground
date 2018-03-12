@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaPlayground.iml" filepath="$PROJECT_DIR$/.idea/JavaPlayground.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionalprog/functionalprog.iml" filepath="$PROJECT_DIR$/functionalprog/functionalprog.iml" />
     </modules>
   </component>
 </project>
