@@ -56,6 +56,22 @@ public class PassingBehaviour {
         Passing myLambdaPassingInterface = ()
                 -> System.out.println("First Lambda Implementation");
 
+
+        myLambdaPassingInterface.perform();
+
+        //inner anonymous class
+        Passing innerClassGreeting = new Passing() {
+            @Override
+            public void perform() {
+                System.out.println("Hello inner anonymous class");
+            }
+        };
+
+        System.out.println("***********************");
+        passingBehaviour.behaviour(myLambdaPassingInterface);
+        passingBehaviour.behaviour(innerClassGreeting);
+
+
     }
 }
 @FunctionalInterface
