@@ -20,7 +20,8 @@ public class StreamExample {
         );
 
         vehicles.stream()
-                .filter(v -> v.getBrand().startsWith("P"))
+                .filter(v -> v.getBrand().startsWith("Pgit status" +
+                        ""))
                 .forEach(v -> System.out.println(v.getBrand()));
 
 
