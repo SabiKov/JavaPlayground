@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a16f35-d53e-4991-a181-57f3bc4b8b41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/AwtList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/CheckBoxChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ChoiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JawtList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JxFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ListBoxChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/MultiChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/PlDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/RadioButtonChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/WealthBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,61 +22,144 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimpleBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/builder/simplebuilder/SimpleBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FluentBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/builder/fluentbuilder/FluentBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlentBuilderWithInheritanceWithRecursiveGenerics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/builder/fluentbuilderinheritance/FlentBuilderWithInheritanceWithRecursiveGenerics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FacetedBuilder.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/builder/faceted/FacetedBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.64299804">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="FacetedBuilder.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/faceted/FacetedBuilder.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RadioButtonChoice.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/RadioButtonChoice.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#184#185#0" expanded="true" />
+                    <element signature="e#217#218#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ChoiceFactory.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ChoiceFactory.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AwtList.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/AwtList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="JawtList.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JawtList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="JxFrame.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JxFrame.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" selection-start-line="6" selection-end-line="6" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MultiChoice.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/MultiChoice.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#320#321#0" expanded="true" />
+                    <element signature="e#371#372#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WealthBuilder.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/WealthBuilder.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="416">
+                  <caret line="92" column="20" lean-forward="true" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="ListBoxChoice.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ListBoxChoice.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CheckBoxChoice.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/CheckBoxChoice.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>multiChoice</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,6 +172,16 @@
         <option value="$PROJECT_DIR$/designpattern/src/builder/fluentbuilder/FluentBuilder.java" />
         <option value="$PROJECT_DIR$/designpattern/src/builder/fluentbuilderinheritance/FlentBuilderWithInheritanceWithRecursiveGenerics.java" />
         <option value="$PROJECT_DIR$/designpattern/src/builder/faceted/FacetedBuilder.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/PlDialog.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/AwList.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JxFrame.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ListboxChoice.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/MultiChoice.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JawtList.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/WealthBuilder.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ChoiceFactory.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/CheckBoxChoice.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/builder/stockmanagment/RadioButtonChoice.java" />
       </list>
     </option>
   </component>
@@ -94,7 +197,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="3" />
-    <option name="width" value="1124" />
+    <option name="width" value="1128" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
@@ -102,7 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,25 +227,40 @@
             <path>
               <item name="JavaPlayground" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="stockmanagment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPlayground" type="462c0819:PsiDirectoryNode" />
               <item name="functionalprog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/designpattern/src/builder" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/designpattern/src/builder" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FacetedBuilder">
+  <component name="RunManager" selected="Application.WealthBuilder">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -189,6 +307,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builder.simplebuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WealthBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.builder.stockmanagment.WealthBuilder" />
+      <module name="designpattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.builder.stockmanagment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,19 +367,19 @@
       <item itemvalue="Application.SimpleBuilder" />
       <item itemvalue="Application.FlentBuilderWithInheritanceWithRecursiveGenerics" />
       <item itemvalue="Application.FacetedBuilder" />
+      <item itemvalue="Application.WealthBuilder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WealthBuilder" />
         <item itemvalue="Application.FacetedBuilder" />
         <item itemvalue="Application.FlentBuilderWithInheritanceWithRecursiveGenerics" />
         <item itemvalue="Application.SimpleBuilder" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -268,30 +397,35 @@
       <workItem from="1526932932455" duration="5502000" />
       <workItem from="1527017337789" duration="2033000" />
       <workItem from="1528623432275" duration="409000" />
-      <workItem from="1528624153856" duration="289000" />
+      <workItem from="1528624153856" duration="1694000" />
+      <workItem from="1528659162185" duration="6673000" />
+      <workItem from="1529137579382" duration="12000" />
+      <workItem from="1529137673614" duration="5971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17219000" />
+    <option name="totallyTimeSpent" value="31280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="3" width="1124" height="1080" extended-state="0" />
+    <frame x="-4" y="3" width="1128" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49761903" weight="0.32873806" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.24250937" side_tool="true" visible="true" weight="0.32873806" />
       <window_info anchor="right" id="Maven Projects" order="2" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32910052" />
-      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.32873806" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.75749063" visible="true" weight="0.32873806" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49841604" weight="0.32873806" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18796992" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.050561797" />
       <window_info anchor="bottom" id="SonarLint" order="2" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
@@ -300,14 +434,13 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3295099" />
       <window_info anchor="right" id="Commander" order="8" weight="0.4" />
       <window_info id="Nl-Palette" order="0" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -320,6 +453,71 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/PlDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/WealthBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="91" column="43" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ChoiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/simplebuilder/SimpleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/fluentbuilder/FluentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/fluentbuilderinheritance/FlentBuilderWithInheritanceWithRecursiveGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/faceted/FacetedBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/designpattern/src/builder/simplebuilder/SimpleBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -595,10 +793,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/PlDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/designpattern/src/builder/faceted/FacetedBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="17">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/MultiChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ListBoxChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/WealthBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="92" column="20" lean-forward="true" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/AwtList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JawtList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/JxFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/ChoiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/CheckBoxChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/src/builder/stockmanagment/RadioButtonChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
